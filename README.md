@@ -11,8 +11,8 @@ Some difficult concepts tend to be:
 4. etcetera
 
 ## Associated Curriculum
-[Intro to Version Control] (https://learn.co/tracks/full-stack-web-development-v6/git-and-github/git/intro-to-version-control)
-[Git Remotes and Github] (Codealong https://learn.co/tracks/full-stack-web-development-v6/git-and-github/github/git-remotes-and-github-codealong)
+[Intro to Version Control](https://learn.co/tracks/full-stack-web-development-v6/git-and-github/git/intro-to-version-control)
+[Git Remotes and Github](Codealong https://learn.co/tracks/full-stack-web-development-v6/git-and-github/github/git-remotes-and-github-codealong)
 
 ## Learning Objectives
 *Students will be able to...*
