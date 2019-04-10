@@ -12,7 +12,6 @@ Some difficult concepts tend to be:
 
 ## Associated Curriculum
 [Intro to Version Control](https://learn.co/tracks/full-stack-web-development-v6/git-and-github/git/intro-to-version-control)  
-
 [Git Remotes and Github](https://learn.co/tracks/full-stack-web-development-v6/git-and-github/github/git-remotes-and-github-codealong)
 
 ## Learning Objectives
